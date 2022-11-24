@@ -1,0 +1,11 @@
+{
+  "name": "gitbook-plugin-collapse-chapters",
+  "version": "0.1.0",
+  "description": "Collapse Chapters on GitBook",
+  "main": "index.js",
+  "engines": {
+    "gitbook": ">1.x.x"
+  },
+  "author": "SongJie",
+  "license": "MIT"
+}
